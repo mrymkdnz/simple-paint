@@ -1,1 +1,1 @@
-# simple-paint
+# android-simple-paint
